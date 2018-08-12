@@ -1,0 +1,8 @@
+{
+  "name": "avatar-util",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yudaprama/avatar-util.git",
+  "author": "Yuda Prama",
+  "license": "MIT"
+}
